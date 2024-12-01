@@ -41,44 +41,45 @@ The next few steps involves:
 
 1. Install LSP (before installing anything)
 
-		- Again, the usual Shift + Ctrl + P for LSP installation
-		- Need to close sublime if you forgot to install node-js before this step. Otherwise, LSP-copilot in the next step won't be installed.
+	- Again, the usual Shift + Ctrl + P for LSP installation
+	- Need to close sublime if you forgot to install node-js before this step. Otherwise, LSP-copilot in the next step won't be installed.
 
 2. Install LSP-copilot 
 
- 		- This only works if both Node-js and LSP are installed 
-		- Close sublime before next step 
+ 	- This only works if both Node-js and LSP are installed 
+	- Close sublime before next step 
 
 3. Allow Copliot to Sign in
 
-		a. Ctrl + N to open an empty file. The next steps won't work if you don't pretend you are working on a file..
-		b. Type Shift + Ctrl + P: Search "Copilot Sign in" or just "Sign in"
-		c. A GitHub website will show up on the browser. A message will show up on the sublime. Click ok.
-		d. Other sublime will show an 8-digit number, or it is on the clipboard. Press "Ctrl V" to show the one-time passcode.
-		e. Enter 8 digits on the pop-up GitHub browser. Click ok.
-
-		- If you do the following which technically seems to be the same, but you may not update the setting propertly. 
-
-			- "Preference -> Package setting -> LSP -> Server -> LSP copilot -> Sign In" 
-			- Better to do steps a-e than this
+	a. Ctrl + N to open an empty file. The next steps won't work if you don't pretend you are working on a file..
+	b. Type Shift + Ctrl + P: Search "Copilot Sign in" or just "Sign in"
+	c. A GitHub website will show up on the browser. A message will show up on the sublime. Click ok.
+	d. Other sublime will show an 8-digit number, or it is on the clipboard. Press "Ctrl V" to show the one-time passcode.
+	e. Enter 8 digits on the pop-up GitHub browser. Click ok.
+	
+	- If you do the following which technically seems to be the same, but you may not update the setting propertly.
+		- "Preference -> Package setting -> LSP -> Server -> LSP copilot -> Sign In" 
+		- Better to do steps a-e than this
 
 
 4. Change LSP user setting
 
-		- Go to "Preference -> Package setting -> LSP -> Setting" 
-		- Paste the following to the right-hand-side, aka user setting: 
+	- Go to "Preference -> Package setting -> LSP -> Setting" 
+	- Paste the following to the right-hand-side, aka user setting: 
+
 		 	{
 			"hover_highlight_style": "background",
 	  		"clients": {},
 	  		"default_clients": {},
 	  		"show_code_actions_in_hover": false,
 	  		"show_symbol_action_links": false,
-		    }
+		   	}
 		
 5. Go to LSP-copilot setting (LSP-Server-LSPcopilot-setting)
 
-		- Go to "Preference -> Package setting -> LSP -> Setting" 
-		- Paste the following to the right-hand-side, aka user setting: 
+	- Go to "Preference -> Package setting -> LSP -> Setting" 
+	- Paste the following to the right-hand-side, aka user setting: 
+				
 			{ 	
 				"enabled": true,
 				"settings": {
@@ -104,8 +105,8 @@ The next few steps involves:
 - A practical tips tp turn on and off the setting:
 	- Use "disable" and "ennable" to reset copilot, when needed 
 	- Shift + Ctrl + P 
-		- Search "disable lsp global" or 
-		- Search "enable lsp global"
+	- Search "disable lsp global" or 
+	- Search "enable lsp global"
 
 
 
