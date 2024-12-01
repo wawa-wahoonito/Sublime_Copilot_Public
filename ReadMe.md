@@ -51,11 +51,11 @@ The next few steps involves:
 
 3. Allow Copliot to Sign in
 
-	1. Ctrl + N to open an empty file. The next steps won't work if you don't pretend you are working on a file..
-	2. Type Shift + Ctrl + P: Search "Copilot Sign in" or just "Sign in"
-	3. A GitHub website will show up on the browser. A message will show up on the sublime. Click ok.
-	4. Other sublime will show an 8-digit number, or it is on the clipboard. Press "Ctrl V" to show the one-time passcode.
-	5. Enter 8 digits on the pop-up GitHub browser. Click ok.
+	- a. Ctrl + N to open an empty file. The next steps won't work if you don't pretend you are working on a file..
+	- b. Type Shift + Ctrl + P: Search "Copilot Sign in" or just "Sign in"
+	- c. A GitHub website will show up on the browser. A message will show up on the sublime. Click ok.
+	- d. Other sublime will show an 8-digit number, or it is on the clipboard. Press "Ctrl V" to show the one-time passcode.
+	- e. Enter 8 digits on the pop-up GitHub browser. Click ok.
 	
 	- *Note*: If you do the following which technically seems to be the same, but you may not update the setting propertly.
 		- "Preference -> Package setting -> LSP -> Server -> LSP copilot -> Sign In" 
