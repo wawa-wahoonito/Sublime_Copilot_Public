@@ -1,4 +1,4 @@
-## Install Copilot for Sublime Editor:
+# Install Copilot for Sublime Editor:
 
 Date: December 1st, 2024
 
@@ -18,7 +18,7 @@ The next few steps involves:
 
 
 
-# Part 1: Download the latest sublime (needs to be 4 and above)
+## Part 1: Download the latest sublime (needs to be 4 and above)
 
 1. Copilot needs sublime 4 or above 
 	
@@ -32,7 +32,7 @@ The next few steps involves:
 
 
 
-# Part 2: Install Node js runtime 
+## Part 2: Install Node js runtime 
 	
 
 - Agree with everything and install it in the default location
@@ -40,7 +40,7 @@ The next few steps involves:
 
 
 
-# Part 2: Install LSP, LSP-copilot, Sign-in Copilot, Change settings for LSP and LSP-copilot 
+## Part 3: Install LSP, LSP-copilot, Sign-in Copilot, Change settings for LSP and LSP-copilot 
 
 1. Install LSP (before installing anything)
 
@@ -97,7 +97,7 @@ The next few steps involves:
 
 	
 
-# Part 3: Start Using Copilot:
+## Part 4: Start Using Copilot:
 	
 - Similar to VSCode, start writing code, or commennt to start generating code. Use "tab" to accept, "space" to regenerate, any key to reject, and more writing to regenerate as well. 
 
