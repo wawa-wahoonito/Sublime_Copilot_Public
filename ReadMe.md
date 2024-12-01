@@ -5,27 +5,27 @@ This file aims to explain how to use copilot in sublime environment. This is sui
 
 Before predicting the following steps, make sure the following is done: 
 
-	1. sublime is isntalled 
-	2. copilot is purchased (using education account or personal github account). 
+1. sublime is isntalled 
+2. copilot is purchased (using education account or personal github account). 
 
 The next few steps involves: 
 	
-	1. Installing Node-js runtime
-	2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting it up
+1. Installing Node-js runtime
+2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting it up
 
 
 
 # Part 1: Download the latest sublime (needs to be 4 and above)
 
-	1. Copilot needs sublime 4 or above 
+1. Copilot needs sublime 4 or above 
 	
-		- You can either download the new version, or click "Help" -> "Check for Updates" to update the sublime 
+	- You can either download the new version, or click "Help" -> "Check for Updates" to update the sublime 
 	
-	2. Next, make sure other similar AI tools (such as tabnine is removed): 
+2. Next, make sure other similar AI tools (such as tabnine is removed): 
 
-		- For example: Shift + Ctrl + P for package control 
-		- Remove package "tabnine"
-		- Restart sublime to make sure tab9 is probably uninstalled
+	- For example: Shift + Ctrl + P for package control 
+	- Remove package "tabnine"
+	- Restart sublime to make sure tab9 is probably uninstalled
 
 
 
