@@ -31,24 +31,25 @@ The next few steps involves:
 
 # Part 2: Install Node js runtime 
 	
-	- Agree with everything and install it in the default location
-	- No need to check "Auto install necessary tools. Note that... Chocolatey.. etc." Otherwise you will be propmted to install chocolatey in Windows PowerShell environment which make take a long time, and you may still need to cancel the installation 
+
+- Agree with everything and install it in the default location
+- No need to check "Auto install necessary tools. Note that... Chocolatey.. etc." Otherwise you will be propmted to install chocolatey in Windows PowerShell environment which make take a long time, and you may still need to cancel the installation 
 
 
 
 # Part 2: Install LSP, LSP-copilot, Sign-in Copilot, Change settings for LSP and LSP-copilot 
 
-	1. Install LSP (before installing anything)
+1. Install LSP (before installing anything)
 
 		- Again, the usual Shift + Ctrl + P for LSP installation
 		- Need to close sublime if you forgot to install node-js before this step. Otherwise, LSP-copilot in the next step won't be installed.
 
- 	2. Install LSP-copilot 
+2. Install LSP-copilot 
 
  		- This only works if both Node-js and LSP are installed 
 		- Close sublime before next step 
 
-	3. Allow Copliot to Sign in
+3. Allow Copliot to Sign in
 
 		a. Ctrl + N to open an empty file. The next steps won't work if you don't pretend you are working on a file..
 		b. Type Shift + Ctrl + P: Search "Copilot Sign in" or just "Sign in"
@@ -62,7 +63,7 @@ The next few steps involves:
 			- Better to do steps a-e than this
 
 
-	4. Change LSP user setting
+4. Change LSP user setting
 
 		- Go to "Preference -> Package setting -> LSP -> Setting" 
 		- Paste the following to the right-hand-side, aka user setting: 
@@ -74,7 +75,7 @@ The next few steps involves:
 	  		"show_symbol_action_links": false,
 		    }
 		
-	5. Go to LSP-copilot setting (LSP-Server-LSPcopilot-setting)
+5. Go to LSP-copilot setting (LSP-Server-LSPcopilot-setting)
 
 		- Go to "Preference -> Package setting -> LSP -> Setting" 
 		- Paste the following to the right-hand-side, aka user setting: 
@@ -94,17 +95,17 @@ The next few steps involves:
 
 # Part 3: Start Using Copilot:
 	
-	- Similar to VSCode, start writing code, or commennt to start generating code. Use "tab" to accept, "space" to regenerate, any key to reject, and more writing to regenerate as well. 
+- Similar to VSCode, start writing code, or commennt to start generating code. Use "tab" to accept, "space" to regenerate, any key to reject, and more writing to regenerate as well. 
 
-	- Always seperate code directory with data directory, otherwise copilot will try to read your data as code.
+- Always seperate code directory with data directory, otherwise copilot will try to read your data as code.
 
-	- Look at the tiny anime on lower-left corner to know if copilot is thinking
+- Look at the tiny anime on lower-left corner to know if copilot is thinking
 
-	- A practical tips tp turn on and off the setting:
-		- Use "disable" and "ennable" to reset copilot, when needed 
-		- Shift + Ctrl + P 
-			- Search "disable lsp global" or 
-			- Search "enable lsp global"
+- A practical tips tp turn on and off the setting:
+	- Use "disable" and "ennable" to reset copilot, when needed 
+	- Shift + Ctrl + P 
+		- Search "disable lsp global" or 
+		- Search "enable lsp global"
 
 
 
