@@ -1,6 +1,6 @@
 ## Install Copilot for Subline Editor:
 
-This file aims to explain how to use copilot in sublime environment. This is suitable for those <u>who do not wish to use VSCode editor</u> (default copilot editor). The pro is that sublime is much faster than VSCode, also it does not subject to frequent update that makes editing difficult. The con is that sublime is not as user-friendly as VSCode. 
+This file aims to explain how to use copilot in sublime environment. This is suitable for those <ins>who do not wish to use VSCode editor</ins> (default copilot editor). The pro is that sublime is much faster than VSCode, also it does not subject to frequent update that makes editing difficult. The con is that sublime is not as user-friendly as VSCode. 
 
 
 Before predicting the following steps, make sure the following is done: 
