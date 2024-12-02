@@ -11,7 +11,7 @@ Make sure the following is done:
 1. sublime is installed 
 2. copilot is purchased and installed (using education account or personal github account). 
 
-The next few steps involves: 
+The next few steps involve: 
 	
 1. Installing Node-js runtime
 2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting it up
