@@ -16,6 +16,7 @@ The next few steps involve:
 1. Installing Node-js runtime
 2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting them up
 
+Also, this Readme is written for PC. For users using MacOS, replace all "Ctrl" with "⌘" 
 
 
 ## Part 1: Download the latest sublime (needs to be 4 or above)
