@@ -24,7 +24,7 @@ The next few steps involve:
 	
 	- You can either download the new version, or click "Help" -> "Check for Updates" to update the sublime 
 	
-2. Next, make sure other similar AI tools (such as tabnine is removed): 
+2. Next, make sure other similar AI tools (such as tabnine) are removed: 
 
 	- For example: Shift + Ctrl + P for package control 
 	- Remove package "tabnine"
