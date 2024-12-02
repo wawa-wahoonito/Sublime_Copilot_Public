@@ -9,14 +9,14 @@ This file aims to explain how to use copilot in sublime environment. This is sui
 Make sure the following is done: 
 
 1. sublime is installed 
-2. copilot is purchased and installed (using education account or personal github account). 
+2. copilot is purchased and installed (using education account or personal github account)
 
 The next few steps involve: 
 	
 1. Installing Node-js runtime
 2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting them up
 
-Also, this Readme is written for PC. For users using MacOS, replace all "Ctrl" with "⌘" 
+Also, this Readme is written for PC. For MacOS users, replace all "Ctrl" with "⌘" 
 
 
 ## Part 1: Download the latest sublime (needs to be 4 or above)
@@ -51,6 +51,7 @@ Also, this Readme is written for PC. For users using MacOS, replace all "Ctrl" w
 2. Install LSP-copilot 
 
  	- This only works if both Node-js and LSP are installed 
+ 	- Again, the usual Shift + Ctrl + P for LSP-copilot installation
 	- Close sublime before next step 
 
 3. Allow Copliot to Sign in
@@ -58,12 +59,11 @@ Also, this Readme is written for PC. For users using MacOS, replace all "Ctrl" w
 	- a. Ctrl + N to open an empty file. The next steps won't work if you don't pretend you are working on a file..
 	- b. Type Shift + Ctrl + P: Search "Copilot Sign in" or just "Sign in"
 	- c. A GitHub website will show up on the browser. A message will show up on the sublime. Click ok.
-	- d. Other sublime will show an 8-digit number, or it is on the clipboard. Press "Ctrl V" to show the one-time passcode.
+	- d. Sublime will show an 8-digit number. If not, the 8 digit code is stored on the clipboard. Press "Ctrl V" to show the one-time passcode.
 	- e. Enter 8 digits on the pop-up GitHub browser. Click ok.
 	
 	- *Note*: If you do the following which technically seems to be the same, but you may not update the setting propertly.
 		- "Preference -> Package setting -> LSP -> Server -> LSP copilot -> Sign In" 
-		- Better to do steps a-e than this
 
 
 4. Change LSP user setting
