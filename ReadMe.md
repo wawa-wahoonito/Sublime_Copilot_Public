@@ -36,7 +36,7 @@ The next few steps involve:
 	
 
 - Agree with everything and install it in the default location
-- No need to check "Auto install necessary tools. Note that... Chocolatey.. etc." Otherwise you will be propmted to install chocolatey in Windows PowerShell environment which make take a long time, and you may still need to cancel the installation 
+- No need to check "Auto install necessary tools. Note that... Chocolatey.. etc." Otherwise you will be propmted to install chocolatey in Windows PowerShell environment which may take a long time, and you may still need to cancel the installation 
 
 
 
