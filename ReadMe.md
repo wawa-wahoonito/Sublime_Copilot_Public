@@ -18,7 +18,7 @@ The next few steps involve:
 
 
 
-## Part 1: Download the latest sublime (needs to be 4 and above)
+## Part 1: Download the latest sublime (needs to be 4 or above)
 
 1. Copilot needs sublime 4 or above 
 	
