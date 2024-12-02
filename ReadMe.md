@@ -3,7 +3,7 @@
 Date: December 1st, 2024
 
 
-This file aims to explain how to use copilot in sublime environment. This is suitable for those <ins>who do not wish to use VSCode editor</ins> (default copilot editor). The pro is that sublime is much faster than VSCode, also it does not subject to frequent update that makes editing difficult. The con is that sublime is not as user-friendly as VSCode. 
+This file aims to explain how to use copilot in sublime environment. This is suitable for those <ins>who do not wish to use VSCode editor</ins> (default copilot editor). Or stubborn Sublime users who are not into switching editors. The pro is that sublime is much faster than VSCode, also it does not subject to frequent update that makes editing difficult. The con is that sublime is not as user-friendly as VSCode. 
 
 
 Make sure the following is done: 
@@ -107,10 +107,10 @@ Also, this Readme is written for PC. For MacOS users, replace all "Ctrl" with "â
 - Look at the tiny anime on lower-left corner to know if copilot is thinking
 
 - A practical tips tp turn on and off the setting:
-	- Use "disable" and "ennable" to reset copilot, when needed 
+	- Use "disable" and "enable" to reset copilot, when needed 
 	- Shift + Ctrl + P 
-	- Search "disable lsp global" or 
-	- Search "enable lsp global"
+	- Search "Disable LSP global" or 
+	- Search "Enable LSP global"
 
 
 
