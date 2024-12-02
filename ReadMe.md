@@ -14,7 +14,7 @@ Make sure the following is done:
 The next few steps involve: 
 	
 1. Installing Node-js runtime
-2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting it up
+2. Installing two pacakges in sublime (LSP and LSP-copilot) and setting them up
 
 
 
