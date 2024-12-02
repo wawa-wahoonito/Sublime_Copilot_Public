@@ -6,10 +6,10 @@ Date: December 1st, 2024
 This file aims to explain how to use copilot in sublime environment. This is suitable for those <ins>who do not wish to use VSCode editor</ins> (default copilot editor). The pro is that sublime is much faster than VSCode, also it does not subject to frequent update that makes editing difficult. The con is that sublime is not as user-friendly as VSCode. 
 
 
-Before the following steps, make sure the following is done: 
+Make sure the following is done: 
 
-1. sublime is isntalled 
-2. copilot is purchased (using education account or personal github account). 
+1. sublime is installed 
+2. copilot is purchased and installed (using education account or personal github account). 
 
 The next few steps involves: 
 	
